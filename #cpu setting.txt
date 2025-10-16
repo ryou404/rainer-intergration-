@@ -1,0 +1,2 @@
+#cpu setting
+about the CPU
